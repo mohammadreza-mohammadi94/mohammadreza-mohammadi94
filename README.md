@@ -15,6 +15,6 @@ I am always looking for new opportunities to apply my skills and knowledge in th
 # Contact Me
 You can reach me via my [email](mr.mhmdi93@gmail.com)
 
-Please check my other accounts on Kaggle and LinkedIn:
+Please check my other accounts on Kaggle and LinkedIn:  
 [LinkedIn](https://www.linkedin.com/in/mohammadreza-mohammadi-24a3a61b3/)  
-[Kaggle](https://www.kaggle.com/jigsaw13)  
+[Kaggle](https://www.kaggle.com/jigsaw13)    
