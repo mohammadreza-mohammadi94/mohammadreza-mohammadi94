@@ -10,9 +10,6 @@ I am a quick learner and also a team player, I am constantly expanding my knowle
 I am always looking for new opportunities to apply my skills and knowledge in the technology and programming fields. Feel free to connect with me to discuss potential collaborations or opportunities.
 You can contact me via [email](mailto:mr.mhmdi93@gmail.com)  
 
-<br/>  
-
-
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammadreza-mhmdi) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/mohammadreza-mohammadi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/jigsaw_1313) 
 
