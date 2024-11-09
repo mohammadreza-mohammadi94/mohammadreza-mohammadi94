@@ -41,6 +41,7 @@ Beyond coding, I’m a lifelong learner, always exploring new fields and technol
 <div align="center">
   
   ![](https://github-readme-streak-stats.herokuapp.com/?user=mohammadreza-mohammadi94&theme=dark&hide_border=true)  
+    
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadreza-mohammadi94&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
