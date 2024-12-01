@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohammadreza Mohammadi
 ### <div>
-Welcome to my GitHub profile! I'm a **Machine Learning Engineer** and **Python Developer** with a strong focus on **Data Science** and **Artificial Intelligence**. With over 4 years of programming experience and 2 years dedicated to mastering AI and machine learning, I'm passionate about creating impactful projects that solve real-world problems.
+Welcome to my GitHub profile! I'm a **Machine Learning Engineer** and **Python Developer** with a strong focus on **Data Science** and **Artificial Intelligence**. With over 5 years of programming experience and 3 years dedicated to mastering AI and machine learning, I'm passionate about creating impactful projects that solve real-world problems.
 
 Beyond coding, I’m a lifelong learner, always exploring new fields and technologies. I thrive in collaborative environments and am eager to apply my expertise to impactful projects. Let's create something meaningful together!
 </div>
