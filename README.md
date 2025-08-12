@@ -66,7 +66,5 @@ If you like my projects and want to support me, you can donate via Patreon or cr
 - **Bitcoin (BTC):** `bc1q793lses7g7awxc6uv0w425kqdfczwaws6fsull`  
 - **USDT (TRC20):** `TQv6Eju5eGZTQBjA7DPeUNuUMUyFBSYF2K`
 
-*You can also scan the QR code on your wallet app to send donations easily!*
-
 ### Reymit  
 [Send via Reymit](https://reymit.ir/mohammadreza-mhmd)
