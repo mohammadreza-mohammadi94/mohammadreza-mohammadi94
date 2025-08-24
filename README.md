@@ -57,14 +57,4 @@ driving innovation, and collaborating with teams to transform data into actionab
 
 </div>
 
-## Support My Work 🙏
 
-If you like my projects and want to support me, you can donate via Patreon or cryptocurrency. Every bit helps and motivates me to keep creating!
-
-### Crypto Donations  
-- **Ethereum (ETH):** `0x373AB33526EEf0a817aBa88c9c158113F216914E`  
-- **Bitcoin (BTC):** `bc1q793lses7g7awxc6uv0w425kqdfczwaws6fsull`  
-- **USDT (TRC20):** `TQv6Eju5eGZTQBjA7DPeUNuUMUyFBSYF2K`
-
-### Reymit  
-[Send via Reymit](https://reymit.ir/mohammadreza-mhmd)
