@@ -12,7 +12,6 @@ driving innovation, and collaborating with teams to transform data into actionab
 ## 🌟 About Me
 
 - 💼 **Role**: Machine Learning Engineer | Data Scientist  
-- 🌍 **Location**: Tehran, Iran  
 - 🧠 **Interests**: Machine Learning, Deep Learning, Healthcare AI, Natural Language Processing (NLP), and Computer Vision  
 - 💻 **Languages**: Python (main focus), with experience in various ML/DL frameworks like TensorFlow, Keras, and PyTorch  
 - 🌐 **Portfolio Focus**: Healthcare AI, NLP, Computer Vision  
