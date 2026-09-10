@@ -1,59 +1,104 @@
-# 👋 Hi, I'm Mohammadreza Mohammadi
-### <div>
-Welcome to my GitHub profile!  
-I'm a Dedicated Data Scientist and Machine Learning Engineer with over 6 years of programming experience,
-including 5 years specializing in machine learning and deep learning. Proficient in Python and its
-frameworks, with expertise in building and deploying scalable solutions for predictive modeling, data
-analysis, and real-time applications. Skilled in leveraging cutting-edge technologies such as Docker, AWS,
-and PostgreSQL to deliver efficient and impactful results. Passionate about solving challenging problems,
-driving innovation, and collaborating with teams to transform data into actionable insights.
+<div align="center">
+
+# Mohammadreza Mohammadi
+
+**Data Scientist · AI Engineer**
+
+I work the whole path — from raw data and exploratory analysis to trained models,<br>
+and the serving layer that puts them in front of real users.
+
+<br>
+
+<a href="mailto:mr.mhmdi93@gmail.com"><img src="https://img.shields.io/badge/Email-1e293b?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://www.linkedin.com/in/mohammadreza-mohammadi94"><img src="https://img.shields.io/badge/LinkedIn-1e293b?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://github.com/mohammadreza-mohammadi94"><img src="https://img.shields.io/badge/GitHub-1e293b?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+<img src="https://img.shields.io/badge/Discord-mohammadrezzz-1e293b?style=flat-square&logo=discord&logoColor=white" alt="Discord">
+
 </div>
 
-## 🌟 About Me
+---
 
-- 💼 **Role**: Machine Learning Engineer | Data Scientist  
-- 🧠 **Interests**: Machine Learning, Deep Learning, Healthcare AI, Natural Language Processing (NLP), and Computer Vision  
-- 💻 **Languages**: Python (main focus), with experience in various ML/DL frameworks like TensorFlow, Keras, and PyTorch  
-- 🌐 **Portfolio Focus**: Healthcare AI, NLP, Computer Vision  
+## About
 
-## 🔧 Skills  
+Six years of programming, five of them in machine learning and deep learning. Half my time goes to the data science side — framing the question, cleaning the data, finding what the signal actually supports. The other half is engineering: containerizing the result, serving it, and watching it in production.
 
-### **Languages & Tools**
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/R-276DC3?style=plastic&logo=r&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![MLQ5](https://img.shields.io/badge/MLQ5-%2300A1E4.svg?style=plastic&logo=tradingview&logoColor=white)  
-### **Data Science & Machine Learning**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white)  
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white)  
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-%23E25A1C.svg?style=plastic&logo=apache-spark&logoColor=white) ![Hugging Face](https://img.shields.io/badge/HuggingFace-%23FFCC4D.svg?style=plastic&logo=huggingface&logoColor=black)  
+Most of my work sits at the intersection of **healthcare AI**, **NLP**, and **computer vision**. I'm drawn to problems where the model has to be explained, not just scored: survival analysis, clinical time series, and interpretability.
 
-### **LLMs & NLP**
-![RAG](https://img.shields.io/badge/RAG-%230081CB.svg?style=plastic&logo=ai&logoColor=white) ![OpenAI API](https://img.shields.io/badge/OpenAI-412991?style=plastic&logo=openai&logoColor=white) ![Cohere API](https://img.shields.io/badge/Cohere-%230092CC.svg?style=plastic&logo=cohere&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-%23333333.svg?style=plastic&logo=langchain&logoColor=yellow)
-### **Cloud & Deployment**
-![AWS SageMaker](https://img.shields.io/badge/AWS_SageMaker-232F3E?style=plastic&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![DVC](https://img.shields.io/badge/DVC-%23FF6F00.svg?style=plastic&logo=dvc&logoColor=white) ![Dagshub](https://img.shields.io/badge/Dagshub-%230080FF.svg?style=plastic&logo=dagshub&logoColor=white)
-### **Linux & Automation**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![Telegram Bots](https://img.shields.io/badge/Telegram_Bots-0088CC?style=plastic&logo=telegram&logoColor=white)
-### **Database & Backend**
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=plastic&logo=postgresql&logoColor=white)
-### **Version Control & Collaboration**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
+Lately most of that work is LLM-shaped: retrieval pipelines, agentic workflows with real tool use, and the unglamorous part — evaluating and serving them so they behave the same on Tuesday as they did in the demo.
 
-## 🛠️ Current Focus
+**Currently exploring:** agent orchestration and tool-calling patterns · RAG evaluation beyond vibes · explainable AI for clinical decision support · healthcare time series and survival models
 
-- Diving deeper into **Healthcare AI**: Exploring Explainable AI, Healthcare Time Series, and Survival Analysis.  
-- Building more projects around **NLP** and **Computer Vision**.  
-- Continuous learning of **cloud platforms** and deployment strategies.  
+---
 
-## 📫 Get in Touch
+## AI & LLM Engineering
 
-- **Email**: mr.mhmdi93@gmail.com  
-- **LinkedIn**: [Mohammadreza Mohammadi](https://www.linkedin.com/in/mohammadreza-mohammadi94)  
-- **Discord**: `mohammadrezzz`  
+| | |
+|---|---|
+| **Frameworks & Orchestration** | ![LangChain](https://img.shields.io/badge/LangChain-1e293b?style=flat-square&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1e293b?style=flat-square) ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-1e293b?style=flat-square) ![DSPy](https://img.shields.io/badge/DSPy-1e293b?style=flat-square) ![Haystack](https://img.shields.io/badge/Haystack-1e293b?style=flat-square) |
+| **Agents & Tool Use** | ![CrewAI](https://img.shields.io/badge/CrewAI-1e293b?style=flat-square) ![AutoGen](https://img.shields.io/badge/AutoGen-1e293b?style=flat-square) ![MCP](https://img.shields.io/badge/MCP-1e293b?style=flat-square) ![Function Calling](https://img.shields.io/badge/Function%20Calling-1e293b?style=flat-square) ![Pydantic](https://img.shields.io/badge/Pydantic-1e293b?style=flat-square&logo=pydantic&logoColor=white) |
+| **RAG & Vector Stores** | ![FAISS](https://img.shields.io/badge/FAISS-1e293b?style=flat-square) ![Chroma](https://img.shields.io/badge/Chroma-1e293b?style=flat-square) ![Qdrant](https://img.shields.io/badge/Qdrant-1e293b?style=flat-square&logo=qdrant&logoColor=white) ![Pinecone](https://img.shields.io/badge/Pinecone-1e293b?style=flat-square&logo=pinecone&logoColor=white) ![pgvector](https://img.shields.io/badge/pgvector-1e293b?style=flat-square&logo=postgresql&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-1e293b?style=flat-square&logo=elasticsearch&logoColor=white) |
+| **Fine-tuning & Adaptation** | ![Transformers](https://img.shields.io/badge/Transformers-1e293b?style=flat-square&logo=huggingface&logoColor=white) ![PEFT / LoRA](https://img.shields.io/badge/PEFT%20%2F%20LoRA-1e293b?style=flat-square) ![QLoRA](https://img.shields.io/badge/QLoRA-1e293b?style=flat-square) ![TRL](https://img.shields.io/badge/TRL-1e293b?style=flat-square) ![Unsloth](https://img.shields.io/badge/Unsloth-1e293b?style=flat-square) ![bitsandbytes](https://img.shields.io/badge/bitsandbytes-1e293b?style=flat-square) |
+| **Serving & Inference** | ![vLLM](https://img.shields.io/badge/vLLM-1e293b?style=flat-square) ![Ollama](https://img.shields.io/badge/Ollama-1e293b?style=flat-square&logo=ollama&logoColor=white) ![llama.cpp](https://img.shields.io/badge/llama.cpp-1e293b?style=flat-square) ![LiteLLM](https://img.shields.io/badge/LiteLLM-1e293b?style=flat-square) ![TGI](https://img.shields.io/badge/TGI-1e293b?style=flat-square&logo=huggingface&logoColor=white) |
+| **Eval & Observability** | ![LangSmith](https://img.shields.io/badge/LangSmith-1e293b?style=flat-square) ![Langfuse](https://img.shields.io/badge/Langfuse-1e293b?style=flat-square) ![Ragas](https://img.shields.io/badge/Ragas-1e293b?style=flat-square) ![DeepEval](https://img.shields.io/badge/DeepEval-1e293b?style=flat-square) ![Weights & Biases](https://img.shields.io/badge/Weights%20%26%20Biases-1e293b?style=flat-square&logo=weightsandbiases&logoColor=white) |
+| **Model APIs** | ![OpenAI](https://img.shields.io/badge/OpenAI-1e293b?style=flat-square&logo=openai&logoColor=white) ![Anthropic](https://img.shields.io/badge/Anthropic-1e293b?style=flat-square&logo=anthropic&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-1e293b?style=flat-square&logo=googlegemini&logoColor=white) ![Cohere](https://img.shields.io/badge/Cohere-1e293b?style=flat-square&logo=cohere&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-1e293b?style=flat-square&logo=huggingface&logoColor=white) |
+| **Interfaces** | ![Streamlit](https://img.shields.io/badge/Streamlit-1e293b?style=flat-square&logo=streamlit&logoColor=white) ![Gradio](https://img.shields.io/badge/Gradio-1e293b?style=flat-square&logo=gradio&logoColor=white) ![Chainlit](https://img.shields.io/badge/Chainlit-1e293b?style=flat-square) |
+
+---
+
+## Core Stack
+
+| | |
+|---|---|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-1e293b?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-1e293b?style=flat-square&logo=postgresql&logoColor=white) ![R](https://img.shields.io/badge/R-1e293b?style=flat-square&logo=r&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-1e293b?style=flat-square&logo=cplusplus&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-1e293b?style=flat-square&logo=javascript&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-1e293b?style=flat-square&logo=gnubash&logoColor=white) |
+| **ML / Deep Learning** | ![PyTorch](https://img.shields.io/badge/PyTorch-1e293b?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-1e293b?style=flat-square&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-1e293b?style=flat-square&logo=keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-1e293b?style=flat-square&logo=scikitlearn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-1e293b?style=flat-square&logo=scipy&logoColor=white) |
+| **Data & Analysis** | ![Pandas](https://img.shields.io/badge/Pandas-1e293b?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-1e293b?style=flat-square&logo=numpy&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-1e293b?style=flat-square&logo=apachespark&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-1e293b?style=flat-square&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-1e293b?style=flat-square) |
+| **Serving & MLOps** | ![Docker](https://img.shields.io/badge/Docker-1e293b?style=flat-square&logo=docker&logoColor=white) ![AWS SageMaker](https://img.shields.io/badge/AWS%20SageMaker-1e293b?style=flat-square&logo=amazonwebservices&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-1e293b?style=flat-square&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-1e293b?style=flat-square&logo=flask&logoColor=white) ![DVC](https://img.shields.io/badge/DVC-1e293b?style=flat-square&logo=dvc&logoColor=white) ![DagsHub](https://img.shields.io/badge/DagsHub-1e293b?style=flat-square&logo=dagshub&logoColor=white) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1e293b?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-1e293b?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-1e293b?style=flat-square&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-1e293b?style=flat-square&logo=sqlite&logoColor=white) |
+| **Platform** | ![Linux](https://img.shields.io/badge/Linux-1e293b?style=flat-square&logo=linux&logoColor=white) ![Git](https://img.shields.io/badge/Git-1e293b?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-1e293b?style=flat-square&logo=githubactions&logoColor=white) ![Telegram Bots](https://img.shields.io/badge/Telegram%20Bots-1e293b?style=flat-square&logo=telegram&logoColor=white) |
+
+---
+
+## Focus Areas
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**Healthcare AI**
+
+Clinical time series, survival analysis, and risk models. The constraint that shapes everything here is interpretability — a prediction a clinician can't interrogate doesn't get used.
+
+</td>
+<td width="33%" valign="top">
+
+**LLM Systems**
+
+Retrieval pipelines and agents that call real tools against real data. Most of the difficulty lives in evaluation and failure handling, not in the prompt.
+
+</td>
+<td width="33%" valign="top">
+
+**Computer Vision**
+
+Classification, detection, and segmentation — with attention on the boring parts: data quality, class imbalance, and inference cost under load.
+
+</td>
+</tr>
+</table>
+
+Pinned repositories below show the code behind these.
+
+---
 
 <div align="center">
-  
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=mohammadreza-mohammadi94&theme=dark&hide_border=true)  
-    
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadreza-mohammadi94&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=mohammadreza-mohammadi94&show_icons=true&hide_border=true&theme=transparent&title_color=6366F1&icon_color=6366F1&hide_title=true" alt="GitHub stats">
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadreza-mohammadi94&layout=compact&hide_border=true&theme=transparent&title_color=6366F1&langs_count=8" alt="Top languages">
 
 </div>
 
+---
 
+<div align="center">
+<sub>Open to collaboration on healthcare AI and applied NLP.</sub>
+</div>
