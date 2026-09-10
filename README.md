@@ -92,13 +92,14 @@ Pinned repositories below show the code behind these.
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=mohammadreza-mohammadi94&show_icons=true&hide_border=true&theme=transparent&title_color=6366F1&icon_color=6366F1&hide_title=true" alt="GitHub stats">
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadreza-mohammadi94&layout=compact&hide_border=true&theme=transparent&title_color=6366F1&langs_count=8" alt="Top languages">
+<img src="https://img.shields.io/github/followers/mohammadreza-mohammadi94?style=flat-square&logo=github&logoColor=white&label=Followers&labelColor=1e293b&color=6366F1" alt="Followers">
+<img src="https://img.shields.io/badge/Focus-Data%20Science%20%C2%B7%20AI%20Engineering-1e293b?style=flat-square" alt="Focus">
+<img src="https://img.shields.io/badge/Open%20to-Collaboration-6366F1?style=flat-square" alt="Open to collaboration">
 
 </div>
 
 ---
 
 <div align="center">
-<sub>Open to collaboration on healthcare AI and applied NLP.</sub>
+<sub>Open to collaboration on Agentic AI and applied LLM Engieering | Deep Learning | Machine Learning.</sub>
 </div>
