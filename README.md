@@ -20,7 +20,7 @@ and the serving layer that puts them in front of real users.
 
 ## About
 
-Six years of programming, five of them in machine learning and deep learning. Half my time goes to the data science side — framing the question, cleaning the data, finding what the signal actually supports. The other half is engineering: containerizing the result, serving it, and watching it in production.
+5 years of programming, four of them in machine learning and deep learning. Half my time goes to the data science side — framing the question, cleaning the data, finding what the signal actually supports. The other half is engineering: containerizing the result, serving it, and watching it in production.
 
 Most of my work sits at the intersection of **healthcare AI**, **NLP**, and **computer vision**. I'm drawn to problems where the model has to be explained, not just scored: survival analysis, clinical time series, and interpretability.
 
