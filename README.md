@@ -10,7 +10,7 @@ and the serving layer that puts them in front of real users.
 <br>
 
 <a href="mailto:mr.mhmdi93@gmail.com"><img src="https://img.shields.io/badge/Email-1e293b?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://www.linkedin.com/in/mohammadreza-mohammadi94"><img src="https://img.shields.io/badge/LinkedIn-1e293b?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="www.linkedin.com/in/mohammadreza-mhmdi/"><img src="https://img.shields.io/badge/LinkedIn-1e293b?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://github.com/mohammadreza-mohammadi94"><img src="https://img.shields.io/badge/GitHub-1e293b?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
 <img src="https://img.shields.io/badge/Discord-mohammadrezzz-1e293b?style=flat-square&logo=discord&logoColor=white" alt="Discord">
 
